@@ -8,7 +8,7 @@ Interview questions/assignments for potential candidates
 4. Make sure you code is readable and clean
 5. Make sure that UI is close is possible to original(provided) UI
 6. Make sure that you have active Github account
-7. Create repo named: PSD_INT_IOS_<DATE>_<YOUR_NAME>
+7. Create repo named: PSD_INT_IOS_DATE_<YOUR_NAME>
 
 The duration of the test is 4 hours from the "Initial commit" to "Finish commit"
 
@@ -20,7 +20,7 @@ git commit -m "Initial commit" // This when you start coding
 git commit -m "Pause commit"   // This when you want to take a brake
 git commit -m "Finish commit"  // This when assignment is completed
 
-Once you are done with assignment please make sure that you reply to email with the link to the repository (PSD_INT_IOS_<DATE>_<YOUR_NAME>)
+Once you are done with assignment please make sure that you reply to email with the link to the repository (PSD_INT_IOS_DATE_<YOUR_NAME>)
 
 ASSIGNMENT DETAILS:
 
@@ -36,8 +36,9 @@ You can use any API that you like
 
 Design style to follow:
 
-![Image 1]image1.png
-![Image 2]image2.png
+![Image 1](image1.png)
+
+![Image 2](image2.png)
 
 Good luck!
 
