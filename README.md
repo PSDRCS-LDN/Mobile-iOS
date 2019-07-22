@@ -5,7 +5,7 @@ Interview questions/assignments for potential candidates
 1. To complete this assignment successfully make sure that you have prepared your environment and have stable internet connection
 2. You can use any resource such as official Apple documntation, StackOverflow
 3. Make sure that you commit frequently with clear commit messages
-4. Make sure you code is readable and clean
+4. Make sure your code is readable and clean
 5. Make sure that UI is close is possible to original(provided) UI
 6. Make sure that you have active Github account
 7. Create repo named: PSD_INT_IOS_DATE_<YOUR_NAME>
@@ -17,7 +17,9 @@ NOTE: If you cannot spend 4 hours straight on this assignment make sure that you
 Example:
 
 git commit -m "Initial commit" // This when you start coding
+
 git commit -m "Pause commit"   // This when you want to take a brake
+
 git commit -m "Finish commit"  // This when assignment is completed
 
 Once you are done with assignment please make sure that you reply to email with the link to the repository (PSD_INT_IOS_DATE_<YOUR_NAME>)
